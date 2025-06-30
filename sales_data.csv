@@ -1,0 +1,25 @@
+Date,Region,Product,Quantity,Unit Price,Total Sales
+2024-01-15,North,Laptop,5,600,3000
+2024-01-18,South,Tablet,10,150,1500
+2024-02-12,East,Laptop,3,620,1860
+2024-02-20,West,Smartphone,8,400,3200
+2024-03-10,North,Smartphone,6,420,2520
+2024-03-12,East,Tablet,15,140,2100
+2024-04-05,South,Laptop,4,610,2440
+2024-04-25,West,Smartphone,10,390,3900
+2024-05-14,North,Tablet,12,145,1740
+2024-05-20,East,Smartphone,7,410,2870
+2024-06-03,South,Tablet,9,150,1350
+2024-06-18,North,Laptop,6,605,3630
+2024-07-08,West,Smartphone,11,395,4345
+2024-07-22,East,Tablet,13,150,1950
+2024-08-10,North,Smartphone,7,400,2800
+2024-08-25,South,Laptop,5,620,3100
+2024-09-15,West,Tablet,14,155,2170
+2024-09-20,East,Laptop,6,615,3690
+2024-10-11,North,Smartphone,9,405,3645
+2024-10-29,South,Tablet,10,140,1400
+2024-11-03,West,Laptop,4,630,2520
+2024-11-17,East,Smartphone,5,415,2075
+2024-12-01,North,Tablet,8,150,1200
+2024-12-22,South,Smartphone,6,400,2400
